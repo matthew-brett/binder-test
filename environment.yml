@@ -1,0 +1,7 @@
+# From: https://github.com/binder-examples/r-conda/blob/master/environment.yml
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.1.1
+  - r-markdown
+  - python=3.9
