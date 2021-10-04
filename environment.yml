@@ -3,5 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - r-base=3.6
-  - r-markdown
-  - python=3.9
+  - r-tidyverse
